@@ -1,26 +1,69 @@
 <!DOCTYPE html>
 <html>
-<body>
 
+<head>
+    <meta charset="UTF-8">
+</head>
+
+<body>
+   
 <style>
+    td, th {
+    padding: 10px 0; /* Add space above and below each cell */
+}
+    table {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 80px; /* Add space above the table */
+}
+
+
+    .header {
+        background-color:#05198dc4;
+        color: rgb(255, 255, 255);
+        text-align: left;
+        padding: 3% 5%; /* Adjust padding to move text to the top left */
+        font-size: 1em; /* Adjust size as needed */
+        font-weight: bold; /* Make the text bold */
+        font-family: "system-ui"; /* Change the font to Microsoft YaHei */
+        height: 300px; /* Increase the height of the header */
+        
+    }
     th, td {
         text-align: center;
     }
+    .table-header {
+        font-size: 1.5em; /* Adjust size as needed */
+    }
 </style>
 
-<table style="width:100%">
+<div class="header">
+    China University of Mining and Technology<br>Intelligent Information Processing Laboratory
+</div>
+
+<table style="width:90%">
+    
+    
     <tr>
-        <th>No.</th>
-        <th>Audio File</th>
-        <th>Prompt</th>
-        <th>Infer</th>
+        
+        <th class="table-header">Text</th>
+        <th class="table-header">Prompt</th>
+        <th class="table-header">GroundTruth</th>
+        <th class="table-header">Infer</th>
     </tr>
     <tr>
-        <td>1</td>
+        
         <td>Please call stella.</td>
         <td>
             <audio controls>
                 <source src="VCTK/prompt1.wav" type="audio/wav">
+                Your browser does not support the audio element.
+            </audio>
+        </td>
+
+        <td>
+            <audio controls>
+                <source src="VCTK/gt1.wav" type="audio/wav">
                 Your browser does not support the audio element.
             </audio>
         </td>
@@ -32,11 +75,16 @@
         </td>
     </tr>
     <tr>
-        <td>2</td>
+        
         <td>He would need that machine.</td>
         <td>
             <audio controls>
                 <source src="VCTK/prompt2.wav" type="audio/wav">
+                Your browser does not support the audio element.
+            </audio>
+        <td>
+            <audio controls>
+                <source src="VCTK/gt1.wav" type="audio/wav">
                 Your browser does not support the audio element.
             </audio>
         </td>
@@ -48,11 +96,16 @@
         </td>
     </tr>
     <tr>
-        <td>3</td>
+        
         <td>If that is the case, it is a breakthrough.</td>
         <td>
             <audio controls>
                 <source src="VCTK/prompt3.wav" type="audio/wav">
+                Your browser does not support the audio element.
+            </audio>
+        <td>
+            <audio controls>
+                <source src="VCTK/gt3.wav" type="audio/wav">
                 Your browser does not support the audio element.
             </audio>
         </td>
@@ -64,11 +117,16 @@
         </td>
     </tr>
     <tr>
-        <td>4</td>
+        
         <td>Ask her to bring these things with her from the store.</td>
         <td>
             <audio controls>
                 <source src="VCTK/prompt4.wav" type="audio/wav">
+                Your browser does not support the audio element.
+            </audio>
+        <td>
+            <audio controls>
+                <source src="VCTK/gt4.wav" type="audio/wav">
                 Your browser does not support the audio element.
             </audio>
         </td>
@@ -80,11 +138,16 @@
         </td>
     </tr>
     <tr>
-        <td>5</td>
+        
         <td>Our mother is very worried.</td>
         <td>
             <audio controls>
                 <source src="VCTK/prompt5.wav" type="audio/wav">
+                Your browser does not support the audio element.
+            </audio>
+        <td>
+            <audio controls>
+                <source src="VCTK/gt5.wav" type="audio/wav">
                 Your browser does not support the audio element.
             </audio>
         </td>
@@ -96,11 +159,16 @@
         </td>
     </tr>
     <tr>
-        <td>6</td>
+        
         <td>Thankfully, no one in bus is too badly hurt.</td>
         <td>
             <audio controls>
                 <source src="VCTK/prompt6.wav" type="audio/wav">
+                Your browser does not support the audio element.
+            </audio>
+        <td>
+            <audio controls>
+                <source src="VCTK/gt6.wav" type="audio/wav">
                 Your browser does not support the audio element.
             </audio>
         </td>
@@ -112,11 +180,16 @@
         </td>
     </tr>
     <tr>
-        <td>7</td>
+        
         <td>The game today is certainly different.</td>
         <td>
             <audio controls>
                 <source src="VCTK/prompt7.wav" type="audio/wav">
+                Your browser does not support the audio element.
+            </audio>
+        <td>
+            <audio controls>
+                <source src="VCTK/gt7.wav" type="audio/wav">
                 Your browser does not support the audio element.
             </audio>
         </td>
@@ -128,11 +201,16 @@
         </td>
     </tr>
     <tr>
-        <td>8</td>
+        
         <td>The music in the street hasn't changed at all.</td>
         <td>
             <audio controls>
                 <source src="VCTK/prompt8.wav" type="audio/wav">
+                Your browser does not support the audio element.
+            </audio>
+        <td>
+            <audio controls>
+                <source src="VCTK/gt8.wav" type="audio/wav">
                 Your browser does not support the audio element.
             </audio>
         </td>
@@ -144,11 +222,16 @@
         </td>
     </tr>
     <tr>
-        <td>9</td>
+        
         <td>He didn't want me to leave the house.</td>
         <td>
             <audio controls>
                 <source src="VCTK/prompt9.wav" type="audio/wav">
+                Your browser does not support the audio element.
+            </audio>
+        <td>
+            <audio controls>
+                <source src="VCTK/gt9.wav" type="audio/wav">
                 Your browser does not support the audio element.
             </audio>
         </td>
@@ -160,11 +243,16 @@
         </td>
     </tr>
     <tr>
-        <td>10</td>
+        
         <td>Last week, he was taken into the hospital.</td>
         <td>
             <audio controls>
                 <source src="VCTK/prompt10.wav" type="audio/wav">
+                Your browser does not support the audio element.
+            </audio>
+        <td>
+            <audio controls>
+                <source src="VCTK/gt10.wav" type="audio/wav">
                 Your browser does not support the audio element.
             </audio>
         </td>
