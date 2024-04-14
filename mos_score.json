@@ -1,0 +1,2567 @@
+{
+  "/media/yzl/demo/score/0/tacotron2_waveglow.wav": [
+    4.0,
+    3.5,
+    2.3,
+    5.0,
+    3.8,
+    4.0,
+    2.3
+  ],
+  "/media/yzl/demo/score/0/GT.wav": [
+    4.6,
+    4.8,
+    4.8,
+    4.5,
+    4.7,
+    4.6,
+    3.7
+  ],
+  "/media/yzl/demo/score/0/tacotron_grffinlim.wav": [
+    3.2,
+    2.5,
+    0.7,
+    2.0,
+    1.5,
+    2.8,
+    1.0
+  ],
+  "/media/yzl/demo/score/0/GT_recon.wav": [
+    4.3,
+    4.6,
+    3.7,
+    4.0,
+    4.8,
+    4.5,
+    4.8
+  ],
+  "/media/yzl/demo/score/0/my_model.wav": [
+    4.1,
+    4.0,
+    3.2,
+    4.0,
+    4.7,
+    4.9,
+    3.2
+  ],
+  "/media/yzl/demo/score/1/tacotron2_waveglow.wav": [
+    3.7,
+    3.5,
+    3.1,
+    3.5,
+    3.6,
+    4.8,
+    3.7
+  ],
+  "/media/yzl/demo/score/1/GT.wav": [
+    3.8,
+    3.7,
+    3.2,
+    4.8,
+    3.4,
+    3.5,
+    3.4
+  ],
+  "/media/yzl/demo/score/1/tacotron_grffinlim.wav": [
+    3.1,
+    3.0,
+    1.2,
+    2.0,
+    1.3,
+    2.8,
+    1.0
+  ],
+  "/media/yzl/demo/score/1/GT_recon.wav": [
+    4.6,
+    3.8,
+    4.3,
+    4.8,
+    4.0,
+    4.6,
+    2.5
+  ],
+  "/media/yzl/demo/score/1/my_model.wav": [
+    4.3,
+    4.6,
+    3.8,
+    4.8,
+    4.4,
+    4.9,
+    4.9
+  ],
+  "/media/yzl/demo/score/2/tacotron2_waveglow.wav": [
+    3.6,
+    3.4,
+    3.6,
+    4.5,
+    3.4,
+    3.8,
+    2.1
+  ],
+  "/media/yzl/demo/score/2/GT.wav": [
+    4.5,
+    4.2,
+    4.5,
+    4.7,
+    4.1,
+    4.1,
+    3.6
+  ],
+  "/media/yzl/demo/score/2/tacotron_grffinlim.wav": [
+    2.8,
+    2.5,
+    0.4,
+    2.0,
+    0.4,
+    1.2,
+    0.8
+  ],
+  "/media/yzl/demo/score/2/GT_recon.wav": [
+    3.5,
+    3.8,
+    4.8,
+    4.8,
+    3.8,
+    4.8,
+    4.5
+  ],
+  "/media/yzl/demo/score/2/my_model.wav": [
+    4.6,
+    4.5,
+    3.2,
+    4.7,
+    4.7,
+    4.3,
+    3.2
+  ],
+  "/media/yzl/demo/score/3/tacotron2_waveglow.wav": [
+    3.6,
+    3.0,
+    1.7,
+    3.5,
+    3.1,
+    4.5,
+    2.1
+  ],
+  "/media/yzl/demo/score/3/GT.wav": [
+    4.2,
+    4.0,
+    4.6,
+    4.2,
+    4.7,
+    4.9,
+    4.5
+  ],
+  "/media/yzl/demo/score/3/tacotron_grffinlim.wav": [
+    2.8,
+    2.0,
+    0.5,
+    2.0,
+    1.5,
+    1.6,
+    0.9
+  ],
+  "/media/yzl/demo/score/3/GT_recon.wav": [
+    4.1,
+    3.5,
+    4.5,
+    4.5,
+    4.0,
+    4.2,
+    3.2
+  ],
+  "/media/yzl/demo/score/3/my_model.wav": [
+    3.8,
+    4.8,
+    3.5,
+    4.2,
+    4.7,
+    3.8,
+    3.8
+  ],
+  "/media/yzl/demo/score/4/tacotron2_waveglow.wav": [
+    3.8,
+    3.5,
+    3.2,
+    4.4,
+    3.7,
+    4.7,
+    2.3
+  ],
+  "/media/yzl/demo/score/4/GT.wav": [
+    4.1,
+    4.8,
+    4.2,
+    4.9,
+    4.7,
+    4.8,
+    4.9
+  ],
+  "/media/yzl/demo/score/4/tacotron_grffinlim.wav": [
+    3.1,
+    2.5,
+    1.5,
+    2.3,
+    1.6,
+    1.4,
+    0.6
+  ],
+  "/media/yzl/demo/score/4/GT_recon.wav": [
+    4.6,
+    4.5,
+    4.8,
+    4.8,
+    4.9,
+    4.8,
+    3.9
+  ],
+  "/media/yzl/demo/score/4/my_model.wav": [
+    4.3,
+    3.6,
+    3.5,
+    4.8,
+    4.9,
+    4.5,
+    3.4
+  ],
+  "/media/yzl/demo/score/5/tacotron2_waveglow.wav": [
+    3.9,
+    3.0,
+    1.6,
+    4.6,
+    4.6,
+    4.5,
+    1.6
+  ],
+  "/media/yzl/demo/score/5/GT.wav": [
+    3.9,
+    4.0,
+    3.5,
+    4.4,
+    4.8,
+    4.5,
+    3.6
+  ],
+  "/media/yzl/demo/score/5/tacotron_grffinlim.wav": [
+    3.0,
+    2.5,
+    0.5,
+    2.1,
+    0.9,
+    1.3,
+    1.0
+  ],
+  "/media/yzl/demo/score/5/GT_recon.wav": [
+    4.5,
+    3.8,
+    4.8,
+    4.6,
+    4.8,
+    4.8,
+    4.5
+  ],
+  "/media/yzl/demo/score/5/my_model.wav": [
+    4.1,
+    4.8,
+    4.0,
+    4.8,
+    4.2,
+    4.9,
+    3.2
+  ],
+  "/media/yzl/demo/score/6/tacotron2_waveglow.wav": [
+    3.8,
+    3.8,
+    3.0,
+    4.2,
+    3.5,
+    4.9,
+    2.0
+  ],
+  "/media/yzl/demo/score/6/GT.wav": [
+    4.7,
+    4.8,
+    4.8,
+    4.8,
+    4.8,
+    4.8,
+    4.8
+  ],
+  "/media/yzl/demo/score/6/tacotron_grffinlim.wav": [
+    2.8,
+    2.0,
+    1.2,
+    2.0,
+    1.4,
+    1.1,
+    0.7
+  ],
+  "/media/yzl/demo/score/6/GT_recon.wav": [
+    4.5,
+    4.5,
+    4.5,
+    4.6,
+    4.8,
+    4.5,
+    3.8
+  ],
+  "/media/yzl/demo/score/6/my_model.wav": [
+    4.6,
+    4.8,
+    4.2,
+    4.6,
+    4.9,
+    4.8,
+    3.4
+  ],
+  "/media/yzl/demo/score/7/tacotron2_waveglow.wav": [
+    3.9,
+    3.5,
+    3.6,
+    4.3,
+    3.1,
+    4.8,
+    2.2
+  ],
+  "/media/yzl/demo/score/7/GT.wav": [
+    4.4,
+    4.8,
+    4.0,
+    4.8,
+    4.9,
+    4.9,
+    3.3
+  ],
+  "/media/yzl/demo/score/7/tacotron_grffinlim.wav": [
+    2.7,
+    2.0,
+    1.5,
+    2.0,
+    1.6,
+    1.1,
+    0.7
+  ],
+  "/media/yzl/demo/score/7/GT_recon.wav": [
+    4.2,
+    4.5,
+    4.8,
+    4.8,
+    4.7,
+    4.8,
+    4.7
+  ],
+  "/media/yzl/demo/score/7/my_model.wav": [
+    4.6,
+    4.8,
+    4.2,
+    4.6,
+    4.8,
+    4.6,
+    3.7
+  ],
+  "/media/yzl/demo/score/8/tacotron2_waveglow.wav": [
+    3.8,
+    3.5,
+    3.6,
+    4.3,
+    4.7,
+    4.5,
+    2.1
+  ],
+  "/media/yzl/demo/score/8/GT.wav": [
+    4.6,
+    4.8,
+    3.8,
+    4.6,
+    4.6,
+    4.2,
+    3.8
+  ],
+  "/media/yzl/demo/score/8/tacotron_grffinlim.wav": [
+    2.6,
+    2.5,
+    0.7,
+    2.0,
+    1.5,
+    1.2,
+    1.1
+  ],
+  "/media/yzl/demo/score/8/GT_recon.wav": [
+    4.7,
+    4.8,
+    4.8,
+    4.8,
+    4.8,
+    4.8,
+    4.8
+  ],
+  "/media/yzl/demo/score/8/my_model.wav": [
+    4.5,
+    4.5,
+    4.2,
+    4.8,
+    4.5,
+    4.8,
+    3.4
+  ],
+  "/media/yzl/demo/score/9/tacotron2_waveglow.wav": [
+    3.7,
+    3.5,
+    3.6,
+    4.1,
+    4.0,
+    4.9,
+    2.1
+  ],
+  "/media/yzl/demo/score/9/GT.wav": [
+    4.3,
+    3.8,
+    4.5,
+    4.2,
+    4.8,
+    4.7,
+    3.6
+  ],
+  "/media/yzl/demo/score/9/tacotron_grffinlim.wav": [
+    2.6,
+    2.5,
+    0.7,
+    2.1,
+    1.5,
+    1.2,
+    1.2
+  ],
+  "/media/yzl/demo/score/9/GT_recon.wav": [
+    4.8,
+    3.5,
+    4.8,
+    4.6,
+    4.5,
+    4.8,
+    4.5
+  ],
+  "/media/yzl/demo/score/9/my_model.wav": [
+    4.1,
+    4.0,
+    4.2,
+    4.4,
+    4.1,
+    4.5,
+    3.3
+  ],
+  "/media/yzl/demo/score/10/tacotron2_waveglow.wav": [
+    4.1,
+    3.0,
+    2.0,
+    4.4,
+    4.8,
+    "4.9",
+    3.2
+  ],
+  "/media/yzl/demo/score/10/GT.wav": [
+    4.2,
+    4.0,
+    3.7,
+    4.6,
+    4.7,
+    "4.3",
+    2.5
+  ],
+  "/media/yzl/demo/score/10/tacotron_grffinlim.wav": [
+    3.4,
+    2.5,
+    1.5,
+    2.1,
+    3.0,
+    "1.2",
+    1.0
+  ],
+  "/media/yzl/demo/score/10/GT_recon.wav": [
+    4.3,
+    3.7,
+    4.0,
+    4.6,
+    4.7,
+    "4.2",
+    4.6
+  ],
+  "/media/yzl/demo/score/10/my_model.wav": [
+    4.2,
+    4.2,
+    4.8,
+    4.6,
+    4.1,
+    "4.5",
+    3.7
+  ],
+  "/media/yzl/demo/score/11/tacotron2_waveglow.wav": [
+    4.6,
+    3.5,
+    3.6,
+    4.5,
+    4.6,
+    4.6,
+    2.5
+  ],
+  "/media/yzl/demo/score/11/GT.wav": [
+    4.5,
+    4.5,
+    4.8,
+    4.8,
+    4.8,
+    4.5,
+    4.2
+  ],
+  "/media/yzl/demo/score/11/tacotron_grffinlim.wav": [
+    3.5,
+    2.5,
+    1.5,
+    2.2,
+    1.2,
+    1.3,
+    0.9
+  ],
+  "/media/yzl/demo/score/11/GT_recon.wav": [
+    4.8,
+    4.5,
+    4.2,
+    4.8,
+    4.9,
+    4.8,
+    3.4
+  ],
+  "/media/yzl/demo/score/11/my_model.wav": [
+    4.7,
+    4.5,
+    3.9,
+    4.7,
+    4.8,
+    4.9,
+    3.8
+  ],
+  "/media/yzl/demo/score/12/tacotron2_waveglow.wav": [
+    3.7,
+    3.5,
+    3.5,
+    4.3,
+    4.3,
+    4.5,
+    2.2
+  ],
+  "/media/yzl/demo/score/12/GT.wav": [
+    4.3,
+    4.0,
+    4.3,
+    4.6,
+    4.5,
+    4.8,
+    3.8
+  ],
+  "/media/yzl/demo/score/12/tacotron_grffinlim.wav": [
+    3.5,
+    2.5,
+    0.5,
+    2.1,
+    1.4,
+    1.2,
+    0.7
+  ],
+  "/media/yzl/demo/score/12/GT_recon.wav": [
+    4.1,
+    4.5,
+    3.9,
+    4.6,
+    4.8,
+    4.9,
+    4.7
+  ],
+  "/media/yzl/demo/score/12/my_model.wav": [
+    4.2,
+    4.5,
+    4.9,
+    4.8,
+    4.9,
+    4.3,
+    3.2
+  ],
+  "/media/yzl/demo/score/13/tacotron2_waveglow.wav": [
+    3.6,
+    3.7,
+    3.2,
+    4.2,
+    3.8,
+    4.1,
+    1.7
+  ],
+  "/media/yzl/demo/score/13/GT.wav": [
+    4.4,
+    4.5,
+    4.8,
+    5.0,
+    4.6,
+    4.9,
+    3.2
+  ],
+  "/media/yzl/demo/score/13/tacotron_grffinlim.wav": [
+    3.5,
+    2.5,
+    0.6,
+    1.8,
+    1.4,
+    1.5,
+    0.6
+  ],
+  "/media/yzl/demo/score/13/GT_recon.wav": [
+    4.3,
+    4.0,
+    2.8,
+    4.6,
+    4.6,
+    4.8,
+    4.6
+  ],
+  "/media/yzl/demo/score/13/my_model.wav": [
+    4.1,
+    4.0,
+    4.2,
+    4.8,
+    4.8,
+    4.8,
+    3.7
+  ],
+  "/media/yzl/demo/score/14/tacotron2_waveglow.wav": [
+    4.1,
+    3.5,
+    3.2,
+    4.4,
+    3.9,
+    4.5,
+    2.5
+  ],
+  "/media/yzl/demo/score/14/GT.wav": [
+    4.8,
+    4.8,
+    4.8,
+    4.9,
+    4.8,
+    4.5,
+    4.8
+  ],
+  "/media/yzl/demo/score/14/tacotron_grffinlim.wav": [
+    3.5,
+    2.5,
+    2.3,
+    2.3,
+    1.0,
+    1.2,
+    0.8
+  ],
+  "/media/yzl/demo/score/14/GT_recon.wav": [
+    4.5,
+    4.6,
+    4.0,
+    4.4,
+    4.7,
+    4.8,
+    3.1
+  ],
+  "/media/yzl/demo/score/14/my_model.wav": [
+    4.4,
+    4.7,
+    4.5,
+    4.7,
+    4.8,
+    4.9,
+    3.7
+  ],
+  "/media/yzl/demo/score/15/tacotron2_waveglow.wav": [
+    3.8,
+    3.5,
+    2.5,
+    4.1,
+    4.0,
+    4.7,
+    2.0
+  ],
+  "/media/yzl/demo/score/15/GT.wav": [
+    4.5,
+    4.5,
+    4.5,
+    4.5,
+    4.8,
+    4.8,
+    4.6
+  ],
+  "/media/yzl/demo/score/15/tacotron_grffinlim.wav": [
+    3.2,
+    2.5,
+    0.5,
+    1.6,
+    1.5,
+    1.6,
+    1.0
+  ],
+  "/media/yzl/demo/score/15/GT_recon.wav": [
+    4.6,
+    4.5,
+    4.0,
+    4.3,
+    4.9,
+    4.8,
+    3.4
+  ],
+  "/media/yzl/demo/score/15/my_model.wav": [
+    3.9,
+    4.5,
+    4.8,
+    4.8,
+    4.8,
+    4.5,
+    3.7
+  ],
+  "/media/yzl/demo/score/16/tacotron2_waveglow.wav": [
+    4.2,
+    3.5,
+    3.0,
+    3.9,
+    4.8,
+    4.3,
+    2.6
+  ],
+  "/media/yzl/demo/score/16/GT.wav": [
+    4.3,
+    4.5,
+    4.5,
+    4.2,
+    4.7,
+    4.8,
+    4.5
+  ],
+  "/media/yzl/demo/score/16/tacotron_grffinlim.wav": [
+    3.2,
+    2.5,
+    0.7,
+    2.1,
+    1.4,
+    1.3,
+    0.9
+  ],
+  "/media/yzl/demo/score/16/GT_recon.wav": [
+    4.4,
+    4.3,
+    4.8,
+    3.7,
+    4.8,
+    4.5,
+    3.6
+  ],
+  "/media/yzl/demo/score/16/my_model.wav": [
+    4.5,
+    4.2,
+    3.8,
+    4.0,
+    4.7,
+    4.8,
+    3.2
+  ],
+  "/media/yzl/demo/score/17/tacotron2_waveglow.wav": [
+    4.1,
+    3.5,
+    3.2,
+    4.2,
+    4.6,
+    4.5,
+    2.5
+  ],
+  "/media/yzl/demo/score/17/GT.wav": [
+    4.8,
+    4.8,
+    4.8,
+    5.0,
+    4.6,
+    4.7,
+    4.6
+  ],
+  "/media/yzl/demo/score/17/tacotron_grffinlim.wav": [
+    3.3,
+    2.5,
+    1.5,
+    2.1,
+    1.7,
+    1.2,
+    0.6
+  ],
+  "/media/yzl/demo/score/17/GT_recon.wav": [
+    4.2,
+    4.7,
+    4.0,
+    4.5,
+    4.7,
+    4.7,
+    3.7
+  ],
+  "/media/yzl/demo/score/17/my_model.wav": [
+    4.2,
+    4.5,
+    3.7,
+    4.7,
+    4.8,
+    4.6,
+    3.3
+  ],
+  "/media/yzl/demo/score/18/tacotron2_waveglow.wav": [
+    3.9,
+    3.5,
+    3.0,
+    4.2,
+    4.0,
+    4.7,
+    3.3
+  ],
+  "/media/yzl/demo/score/18/GT.wav": [
+    4.0,
+    4.0,
+    4.3,
+    4.4,
+    4.7,
+    4.5,
+    2.4
+  ],
+  "/media/yzl/demo/score/18/tacotron_grffinlim.wav": [
+    2.8,
+    2.5,
+    0.5,
+    2.1,
+    1.6,
+    1.1,
+    0.7
+  ],
+  "/media/yzl/demo/score/18/GT_recon.wav": [
+    4.1,
+    4.0,
+    3.9,
+    4.2,
+    4.8,
+    4.3,
+    3.5
+  ],
+  "/media/yzl/demo/score/18/my_model.wav": [
+    4.2,
+    4.8,
+    4.7,
+    4.8,
+    4.6,
+    4.9,
+    4.3
+  ],
+  "/media/yzl/demo/score/19/tacotron2_waveglow.wav": [
+    3.8,
+    3.5,
+    3.4,
+    4.4,
+    4.5,
+    4.8,
+    2.2
+  ],
+  "/media/yzl/demo/score/19/GT.wav": [
+    4.5,
+    4.5,
+    4.7,
+    4.7,
+    4.9,
+    4.7,
+    3.6
+  ],
+  "/media/yzl/demo/score/19/tacotron_grffinlim.wav": [
+    3.4,
+    2.5,
+    0.7,
+    1.8,
+    1.4,
+    0.9,
+    0.8
+  ],
+  "/media/yzl/demo/score/19/GT_recon.wav": [
+    4.4,
+    4.2,
+    3.6,
+    4.6,
+    4.6,
+    4.6,
+    3.2
+  ],
+  "/media/yzl/demo/score/19/my_model.wav": [
+    4.2,
+    4.8,
+    4.2,
+    4.8,
+    4.8,
+    4.5,
+    4.3
+  ],
+  "/media/yzl/demo/score/20/tacotron2_waveglow.wav": [
+    3.8,
+    3.5,
+    3.2,
+    4.0,
+    4.5,
+    4.8,
+    2.3
+  ],
+  "/media/yzl/demo/score/20/GT.wav": [
+    4.1,
+    4.5,
+    4.2,
+    4.8,
+    4.9,
+    4.6,
+    4.6
+  ],
+  "/media/yzl/demo/score/20/tacotron_grffinlim.wav": [
+    2.9,
+    2.5,
+    0.8,
+    1.5,
+    1.4,
+    1.1,
+    0.7
+  ],
+  "/media/yzl/demo/score/20/GT_recon.wav": [
+    4.1,
+    4.4,
+    4.8,
+    4.5,
+    4.7,
+    4.9,
+    3.3
+  ],
+  "/media/yzl/demo/score/20/my_model.wav": [
+    4.1,
+    4.8,
+    1.6,
+    4.3,
+    4.7,
+    4.7,
+    3.7
+  ],
+  "/media/yzl/demo/score/21/tacotron2_waveglow.wav": [
+    3.9,
+    4.5,
+    2.0,
+    4.0,
+    4.2,
+    4.7,
+    2.2
+  ],
+  "/media/yzl/demo/score/21/GT.wav": [
+    4.6,
+    4.8,
+    3.9,
+    4.7,
+    4.8,
+    4.6,
+    4.8
+  ],
+  "/media/yzl/demo/score/21/tacotron_grffinlim.wav": [
+    2.8,
+    2.5,
+    1.0,
+    2.1,
+    0.9,
+    1.1,
+    1.0
+  ],
+  "/media/yzl/demo/score/21/GT_recon.wav": [
+    4.5,
+    4.0,
+    4.8,
+    4.3,
+    4.7,
+    4.9,
+    3.7
+  ],
+  "/media/yzl/demo/score/21/my_model.wav": [
+    4.7,
+    4.7,
+    4.5,
+    4.2,
+    4.9,
+    4.8,
+    3.4
+  ],
+  "/media/yzl/demo/score/22/tacotron2_waveglow.wav": [
+    3.8,
+    3.5,
+    2.6,
+    4.3,
+    4.0,
+    4.3,
+    2.0
+  ],
+  "/media/yzl/demo/score/22/GT.wav": [
+    4.4,
+    4.7,
+    4.5,
+    4.7,
+    4.8,
+    4.8,
+    4.0
+  ],
+  "/media/yzl/demo/score/22/tacotron_grffinlim.wav": [
+    2.7,
+    2.5,
+    0.8,
+    2.1,
+    1.0,
+    1.1,
+    0.8
+  ],
+  "/media/yzl/demo/score/22/GT_recon.wav": [
+    4.1,
+    4.6,
+    4.8,
+    4.7,
+    4.8,
+    4.9,
+    4.5
+  ],
+  "/media/yzl/demo/score/22/my_model.wav": [
+    4.8,
+    4.4,
+    3.4,
+    4.8,
+    4.7,
+    4.9,
+    3.3
+  ],
+  "/media/yzl/demo/score/23/tacotron2_waveglow.wav": [
+    4.3,
+    3.5,
+    3.5,
+    4.2,
+    4.6,
+    4.1,
+    1.8
+  ],
+  "/media/yzl/demo/score/23/GT.wav": [
+    4.5,
+    4.7,
+    3.7,
+    4.8,
+    4.9,
+    4.6,
+    3.3
+  ],
+  "/media/yzl/demo/score/23/tacotron_grffinlim.wav": [
+    2.7,
+    2.5,
+    0.9,
+    1.8,
+    1.2,
+    1.1,
+    0.9
+  ],
+  "/media/yzl/demo/score/23/GT_recon.wav": [
+    4.4,
+    4.3,
+    4.8,
+    4.2,
+    4.6,
+    3.9,
+    4.6
+  ],
+  "/media/yzl/demo/score/23/my_model.wav": [
+    4.1,
+    4.4,
+    4.2,
+    4.6,
+    4.7,
+    4.7,
+    3.7
+  ],
+  "/media/yzl/demo/score/24/tacotron2_waveglow.wav": [
+    3.9,
+    3.5,
+    3.0,
+    4.2,
+    4.7,
+    4.3,
+    2.2
+  ],
+  "/media/yzl/demo/score/24/GT.wav": [
+    4.7,
+    4.8,
+    4.5,
+    4.8,
+    4.8,
+    4.7,
+    4.5
+  ],
+  "/media/yzl/demo/score/24/tacotron_grffinlim.wav": [
+    2.2,
+    2.5,
+    1.2,
+    1.8,
+    2.2,
+    1.2,
+    1.0
+  ],
+  "/media/yzl/demo/score/24/GT_recon.wav": [
+    3.8,
+    4.5,
+    4.8,
+    4.6,
+    4.7,
+    4.7,
+    3.8
+  ],
+  "/media/yzl/demo/score/24/my_model.wav": [
+    4.2,
+    4.5,
+    3.5,
+    4.7,
+    4.6,
+    4.8,
+    3.3
+  ],
+  "/media/yzl/demo/score/25/tacotron2_waveglow.wav": [
+    4.3,
+    3.5,
+    2.8,
+    4.0,
+    4.7,
+    4.9,
+    2.3
+  ],
+  "/media/yzl/demo/score/25/GT.wav": [
+    4.5,
+    4.2,
+    4.7,
+    4.2,
+    4.6,
+    4.7,
+    4.6
+  ],
+  "/media/yzl/demo/score/25/tacotron_grffinlim.wav": [
+    2.5,
+    2.5,
+    0.5,
+    1.5,
+    1.8,
+    1.4,
+    1.0
+  ],
+  "/media/yzl/demo/score/25/GT_recon.wav": [
+    4.1,
+    4.5,
+    4.4,
+    4.6,
+    4.7,
+    4.2,
+    3.6
+  ],
+  "/media/yzl/demo/score/25/my_model.wav": [
+    3.8,
+    4.3,
+    3.9,
+    4.1,
+    4.6,
+    4.8,
+    3.2
+  ],
+  "/media/yzl/demo/score/26/tacotron2_waveglow.wav": [
+    3.8,
+    3.5,
+    3.1,
+    4.3,
+    4.8,
+    5.0,
+    2.5
+  ],
+  "/media/yzl/demo/score/26/GT.wav": [
+    4.7,
+    4.8,
+    3.8,
+    4.8,
+    4.8,
+    4.8,
+    3.4
+  ],
+  "/media/yzl/demo/score/26/tacotron_grffinlim.wav": [
+    3.1,
+    2.5,
+    1.2,
+    1.6,
+    1.5,
+    1.2,
+    1.1
+  ],
+  "/media/yzl/demo/score/26/GT_recon.wav": [
+    4.1,
+    4.5,
+    4.8,
+    4.5,
+    4.7,
+    4.8,
+    3.6
+  ],
+  "/media/yzl/demo/score/26/my_model.wav": [
+    4.4,
+    4.7,
+    4.5,
+    4.6,
+    4.7,
+    4.8,
+    4.8
+  ],
+  "/media/yzl/demo/score/27/tacotron2_waveglow.wav": [
+    4.1,
+    3.5,
+    3.0,
+    4.5,
+    4.7,
+    4.2,
+    2.3
+  ],
+  "/media/yzl/demo/score/27/GT.wav": [
+    4.7,
+    4.5,
+    4.5,
+    4.6,
+    4.5,
+    4.7,
+    3.7
+  ],
+  "/media/yzl/demo/score/27/tacotron_grffinlim.wav": [
+    3.3,
+    2.5,
+    1.5,
+    1.8,
+    2.0,
+    1.3,
+    0.7
+  ],
+  "/media/yzl/demo/score/27/GT_recon.wav": [
+    4.8,
+    4.5,
+    4.8,
+    3.9,
+    4.6,
+    4.3,
+    4.6
+  ],
+  "/media/yzl/demo/score/27/my_model.wav": [
+    4.8,
+    4.8,
+    4.0,
+    4.6,
+    4.8,
+    4.5,
+    3.3
+  ],
+  "/media/yzl/demo/score/28/tacotron2_waveglow.wav": [
+    3.7,
+    3.5,
+    2.8,
+    4.2,
+    4.7,
+    4.6,
+    2.0
+  ],
+  "/media/yzl/demo/score/28/GT.wav": [
+    4.7,
+    4.7,
+    4.0,
+    4.5,
+    4.8,
+    4.8,
+    3.5
+  ],
+  "/media/yzl/demo/score/28/tacotron_grffinlim.wav": [
+    3.1,
+    2.5,
+    1.2,
+    1.8,
+    2.0,
+    1.2,
+    0.9
+  ],
+  "/media/yzl/demo/score/28/GT_recon.wav": [
+    4.3,
+    4.4,
+    3.5,
+    4.2,
+    4.9,
+    4.8,
+    3.0
+  ],
+  "/media/yzl/demo/score/28/my_model.wav": [
+    3.9,
+    4.5,
+    4.5,
+    4.2,
+    4.5,
+    4.7,
+    4.2
+  ],
+  "/media/yzl/demo/score/29/tacotron2_waveglow.wav": [
+    3.8,
+    3.5,
+    2.7,
+    4.2,
+    4.6,
+    4.3,
+    2.6
+  ],
+  "/media/yzl/demo/score/29/GT.wav": [
+    4.6,
+    4.8,
+    3.9,
+    4.8,
+    4.8,
+    4.7,
+    3.7
+  ],
+  "/media/yzl/demo/score/29/tacotron_grffinlim.wav": [
+    2.9,
+    2.5,
+    0.8,
+    1.8,
+    1.9,
+    1.2,
+    0.8
+  ],
+  "/media/yzl/demo/score/29/GT_recon.wav": [
+    4.1,
+    4.6,
+    4.5,
+    4.6,
+    4.8,
+    4.8,
+    4.7
+  ],
+  "/media/yzl/demo/score/29/my_model.wav": [
+    4.8,
+    4.5,
+    4.1,
+    4.8,
+    4.9,
+    4.6,
+    3.3
+  ],
+  "/media/yzl/demo/score/30/tacotron2_waveglow.wav": [
+    3.6,
+    3.5,
+    2.5,
+    4.3,
+    3.8,
+    4.8,
+    2.5
+  ],
+  "/media/yzl/demo/score/30/GT.wav": [
+    4.1,
+    4.8,
+    4.2,
+    4.6,
+    4.7,
+    4.1,
+    3.7
+  ],
+  "/media/yzl/demo/score/30/tacotron_grffinlim.wav": [
+    3.1,
+    2.5,
+    1.4,
+    2.0,
+    2.1,
+    1.3,
+    0.9
+  ],
+  "/media/yzl/demo/score/30/GT_recon.wav": [
+    4.2,
+    4.6,
+    4.6,
+    4.8,
+    4.7,
+    4.5,
+    4.7
+  ],
+  "/media/yzl/demo/score/30/my_model.wav": [
+    4.1,
+    4.3,
+    3.2,
+    4.3,
+    4.8,
+    4.8,
+    3.4
+  ],
+  "/media/yzl/demo/score/31/tacotron2_waveglow.wav": [
+    4.2,
+    4.0,
+    2.6,
+    4.5,
+    4.8,
+    4.8,
+    2.3
+  ],
+  "/media/yzl/demo/score/31/GT.wav": [
+    4.6,
+    4.7,
+    4.0,
+    4.9,
+    4.5,
+    4.6,
+    3.4
+  ],
+  "/media/yzl/demo/score/31/tacotron_grffinlim.wav": [
+    3.5,
+    2.5,
+    0.6,
+    1.9,
+    1.2,
+    1.3,
+    0.6
+  ],
+  "/media/yzl/demo/score/31/GT_recon.wav": [
+    4.8,
+    3.5,
+    3.5,
+    4.4,
+    4.2,
+    4.1,
+    3.7
+  ],
+  "/media/yzl/demo/score/31/my_model.wav": [
+    4.4,
+    4.5,
+    4.5,
+    4.5,
+    4.7,
+    4.8,
+    4.6
+  ],
+  "/media/yzl/demo/score/32/tacotron2_waveglow.wav": [
+    3.8,
+    3.5,
+    1.7,
+    4.2,
+    4.2,
+    4.8,
+    2.2
+  ],
+  "/media/yzl/demo/score/32/GT.wav": [
+    4.8,
+    4.8,
+    3.9,
+    4.8,
+    4.7,
+    4.2,
+    3.7
+  ],
+  "/media/yzl/demo/score/32/tacotron_grffinlim.wav": [
+    3.3,
+    2.5,
+    0.6,
+    1.8,
+    2.2,
+    1.3,
+    0.7
+  ],
+  "/media/yzl/demo/score/32/GT_recon.wav": [
+    3.9,
+    4.5,
+    4.0,
+    4.6,
+    4.7,
+    4.6,
+    4.8
+  ],
+  "/media/yzl/demo/score/32/my_model.wav": [
+    4.7,
+    4.7,
+    4.5,
+    4.6,
+    4.8,
+    4.5,
+    3.3
+  ],
+  "/media/yzl/demo/score/33/tacotron2_waveglow.wav": [
+    3.7,
+    3.5,
+    2.7,
+    4.3,
+    3.9,
+    4.3,
+    2.0
+  ],
+  "/media/yzl/demo/score/33/GT.wav": [
+    4.1,
+    4.8,
+    4.5,
+    4.7,
+    4.8,
+    4.5,
+    3.7
+  ],
+  "/media/yzl/demo/score/33/tacotron_grffinlim.wav": [
+    2.8,
+    2.5,
+    1.0,
+    1.8,
+    1.6,
+    1.3,
+    0.8
+  ],
+  "/media/yzl/demo/score/33/GT_recon.wav": [
+    4.5,
+    4.5,
+    4.0,
+    4.6,
+    4.6,
+    4.8,
+    4.6
+  ],
+  "/media/yzl/demo/score/33/my_model.wav": [
+    3.9,
+    4.7,
+    3.5,
+    4.2,
+    4.5,
+    3.9,
+    3.3
+  ],
+  "/media/yzl/demo/score/34/tacotron2_waveglow.wav": [
+    4.1,
+    3.5,
+    2.6,
+    4.2,
+    4.7,
+    4.8,
+    2.3
+  ],
+  "/media/yzl/demo/score/34/GT.wav": [
+    3.7,
+    4.7,
+    4.0,
+    4.8,
+    4.9,
+    4.3,
+    3.7
+  ],
+  "/media/yzl/demo/score/34/tacotron_grffinlim.wav": [
+    3.1,
+    2.5,
+    1.2,
+    1.6,
+    2.1,
+    1.3,
+    0.9
+  ],
+  "/media/yzl/demo/score/34/GT_recon.wav": [
+    4.7,
+    4.5,
+    3.4,
+    4.3,
+    4.9,
+    4.6,
+    3.2
+  ],
+  "/media/yzl/demo/score/34/my_model.wav": [
+    4.5,
+    4.6,
+    4.5,
+    4.3,
+    4.8,
+    4.8,
+    4.8
+  ],
+  "/media/yzl/demo/score/35/tacotron2_waveglow.wav": [
+    3.6,
+    3.5,
+    3.0,
+    4.2,
+    3.7,
+    3.6,
+    2.4
+  ],
+  "/media/yzl/demo/score/35/GT.wav": [
+    4.4,
+    4.0,
+    4.5,
+    4.6,
+    4.5,
+    4.6,
+    3.3
+  ],
+  "/media/yzl/demo/score/35/tacotron_grffinlim.wav": [
+    2.7,
+    2.5,
+    0.4,
+    1.6,
+    1.8,
+    1.2,
+    0.8
+  ],
+  "/media/yzl/demo/score/35/GT_recon.wav": [
+    4.3,
+    4.4,
+    3.5,
+    4.1,
+    4.7,
+    4.2,
+    3.7
+  ],
+  "/media/yzl/demo/score/35/my_model.wav": [
+    4.1,
+    4.5,
+    4.0,
+    4.2,
+    4.7,
+    4.3,
+    4.8
+  ],
+  "/media/yzl/demo/score/36/tacotron2_waveglow.wav": [
+    4.6,
+    3.5,
+    3.0,
+    4.7,
+    4.5,
+    4.5,
+    2.1
+  ],
+  "/media/yzl/demo/score/36/GT.wav": [
+    4.5,
+    4.6,
+    3.8,
+    4.2,
+    4.6,
+    4.2,
+    4.8
+  ],
+  "/media/yzl/demo/score/36/tacotron_grffinlim.wav": [
+    2.5,
+    2.5,
+    0.6,
+    1.8,
+    2.0,
+    1.1,
+    0.7
+  ],
+  "/media/yzl/demo/score/36/GT_recon.wav": [
+    3.9,
+    4.5,
+    4.0,
+    4.3,
+    4.7,
+    4.8,
+    3.7
+  ],
+  "/media/yzl/demo/score/36/my_model.wav": [
+    4.8,
+    4.5,
+    4.3,
+    4.5,
+    4.8,
+    4.1,
+    3.2
+  ],
+  "/media/yzl/demo/score/37/tacotron2_waveglow.wav": [
+    4.7,
+    3.5,
+    3.0,
+    4.8,
+    4.9,
+    4.7,
+    2.6
+  ],
+  "/media/yzl/demo/score/37/GT.wav": [
+    4.1,
+    4.4,
+    4.0,
+    4.2,
+    4.7,
+    4.7,
+    4.7
+  ],
+  "/media/yzl/demo/score/37/tacotron_grffinlim.wav": [
+    3.2,
+    2.5,
+    1.0,
+    1.8,
+    1.9,
+    1.2,
+    0.9
+  ],
+  "/media/yzl/demo/score/37/GT_recon.wav": [
+    4.3,
+    4.3,
+    3.5,
+    4.1,
+    4.8,
+    4.6,
+    3.7
+  ],
+  "/media/yzl/demo/score/37/my_model.wav": [
+    4.1,
+    4.4,
+    4.5,
+    4.8,
+    4.8,
+    4.3,
+    3.2
+  ],
+  "/media/yzl/demo/score/38/tacotron2_waveglow.wav": [
+    3.8,
+    4.0,
+    2.8,
+    4.2,
+    3.9,
+    4.8,
+    2.5
+  ],
+  "/media/yzl/demo/score/38/GT.wav": [
+    4.6,
+    4.7,
+    4.6,
+    4.2,
+    4.8,
+    4.7,
+    4.8
+  ],
+  "/media/yzl/demo/score/38/tacotron_grffinlim.wav": [
+    2.7,
+    2.5,
+    0.5,
+    1.8,
+    1.9,
+    1.1,
+    1.1
+  ],
+  "/media/yzl/demo/score/38/GT_recon.wav": [
+    4.5,
+    4.5,
+    3.8,
+    4.5,
+    4.7,
+    3.8,
+    3.9
+  ],
+  "/media/yzl/demo/score/38/my_model.wav": [
+    4.3,
+    4.6,
+    3.5,
+    4.6,
+    4.9,
+    4.8,
+    3.4
+  ],
+  "/media/yzl/demo/score/39/tacotron2_waveglow.wav": [
+    3.8,
+    3.5,
+    2.4,
+    4.4,
+    4.0,
+    4.3,
+    2.5
+  ],
+  "/media/yzl/demo/score/39/GT.wav": [
+    3.9,
+    4.7,
+    4.0,
+    4.6,
+    4.8,
+    4.8,
+    4.8
+  ],
+  "/media/yzl/demo/score/39/tacotron_grffinlim.wav": [
+    3.3,
+    2.5,
+    0.8,
+    1.8,
+    2.2,
+    1.1,
+    1.1
+  ],
+  "/media/yzl/demo/score/39/GT_recon.wav": [
+    4.8,
+    4.5,
+    4.8,
+    4.5,
+    4.8,
+    3.9,
+    3.7
+  ],
+  "/media/yzl/demo/score/39/my_model.wav": [
+    4.1,
+    4.5,
+    3.5,
+    4.6,
+    4.6,
+    4.2,
+    3.2
+  ],
+  "/media/yzl/demo/score/40/tacotron2_waveglow.wav": [
+    3.9,
+    3.5,
+    2.8,
+    4.0,
+    4.7,
+    4.3,
+    2.6
+  ],
+  "/media/yzl/demo/score/40/GT.wav": [
+    4.5,
+    4.4,
+    4.0,
+    4.8,
+    4.8,
+    4.7,
+    3.2
+  ],
+  "/media/yzl/demo/score/40/tacotron_grffinlim.wav": [
+    3.4,
+    2.5,
+    1.2,
+    2.0,
+    1.4,
+    1.1,
+    0.8
+  ],
+  "/media/yzl/demo/score/40/GT_recon.wav": [
+    3.8,
+    4.5,
+    3.5,
+    4.6,
+    4.7,
+    4.6,
+    3.7
+  ],
+  "/media/yzl/demo/score/40/my_model.wav": [
+    4.7,
+    4.6,
+    4.5,
+    4.6,
+    4.8,
+    4.2,
+    4.8
+  ],
+  "/media/yzl/demo/score/41/tacotron2_waveglow.wav": [
+    4.6,
+    4.0,
+    2.4,
+    4.2,
+    4.5,
+    4.2,
+    2.0
+  ],
+  "/media/yzl/demo/score/41/GT.wav": [
+    4.5,
+    4.5,
+    4.5,
+    4.2,
+    4.8,
+    4.7,
+    4.7
+  ],
+  "/media/yzl/demo/score/41/tacotron_grffinlim.wav": [
+    3.2,
+    2.5,
+    0.6,
+    1.9,
+    2.1,
+    1.2,
+    1.0
+  ],
+  "/media/yzl/demo/score/41/GT_recon.wav": [
+    4.1,
+    4.0,
+    3.5,
+    4.3,
+    4.7,
+    4.8,
+    3.3
+  ],
+  "/media/yzl/demo/score/41/my_model.wav": [
+    4.5,
+    4.5,
+    4.0,
+    4.8,
+    4.8,
+    4.6,
+    3.8
+  ],
+  "/media/yzl/demo/score/42/tacotron2_waveglow.wav": [
+    3.7,
+    3.5,
+    2.7,
+    4.0,
+    4.3,
+    4.2,
+    2.0
+  ],
+  "/media/yzl/demo/score/42/GT.wav": [
+    4.4,
+    4.7,
+    3.5,
+    4.4,
+    4.6,
+    4.8,
+    3.3
+  ],
+  "/media/yzl/demo/score/42/tacotron_grffinlim.wav": [
+    2.4,
+    2.5,
+    0.8,
+    1.9,
+    2.1,
+    1.1,
+    0.7
+  ],
+  "/media/yzl/demo/score/42/GT_recon.wav": [
+    4.5,
+    4.4,
+    3.9,
+    4.4,
+    4.7,
+    4.5,
+    3.7
+  ],
+  "/media/yzl/demo/score/42/my_model.wav": [
+    4.6,
+    4.7,
+    4.5,
+    4.6,
+    4.6,
+    4.9,
+    4.8
+  ],
+  "/media/yzl/demo/score/43/tacotron2_waveglow.wav": [
+    4.1,
+    3.5,
+    3.0,
+    4.3,
+    4.4,
+    4.7,
+    2.0
+  ],
+  "/media/yzl/demo/score/43/GT.wav": [
+    4.8,
+    4.7,
+    4.0,
+    4.8,
+    4.8,
+    4.2,
+    4.8
+  ],
+  "/media/yzl/demo/score/43/tacotron_grffinlim.wav": [
+    3.4,
+    2.5,
+    1.5,
+    2.1,
+    2.3,
+    1.1,
+    0.7
+  ],
+  "/media/yzl/demo/score/43/GT_recon.wav": [
+    4.2,
+    4.5,
+    4.5,
+    4.5,
+    4.6,
+    3.7,
+    3.9
+  ],
+  "/media/yzl/demo/score/43/my_model.wav": [
+    4.5,
+    4.5,
+    3.5,
+    4.7,
+    4.8,
+    3.9,
+    3.4
+  ],
+  "/media/yzl/demo/score/44/tacotron2_waveglow.wav": [
+    4.7,
+    3.5,
+    2.5,
+    4.3,
+    4.5,
+    4.1,
+    1.9
+  ],
+  "/media/yzl/demo/score/44/GT.wav": [
+    4.2,
+    4.6,
+    3.8,
+    4.8,
+    4.9,
+    4.8,
+    4.8
+  ],
+  "/media/yzl/demo/score/44/tacotron_grffinlim.wav": [
+    3.1,
+    2.5,
+    0.5,
+    1.8,
+    1.6,
+    1.1,
+    0.8
+  ],
+  "/media/yzl/demo/score/44/GT_recon.wav": [
+    4.5,
+    4.4,
+    4.4,
+    4.5,
+    4.6,
+    4.6,
+    3.1
+  ],
+  "/media/yzl/demo/score/44/my_model.wav": [
+    4.5,
+    4.5,
+    3.5,
+    4.6,
+    4.8,
+    4.2,
+    3.8
+  ],
+  "/media/yzl/demo/score/45/tacotron2_waveglow.wav": [
+    4.4,
+    3.5,
+    2.5,
+    4.5,
+    3.9,
+    4.6,
+    2.1
+  ],
+  "/media/yzl/demo/score/45/GT.wav": [
+    4.1,
+    4.4,
+    3.5,
+    4.4,
+    4.7,
+    4.1,
+    3.3
+  ],
+  "/media/yzl/demo/score/45/tacotron_grffinlim.wav": [
+    2.7,
+    2.5,
+    0.6,
+    1.7,
+    2.0,
+    1.1,
+    0.7
+  ],
+  "/media/yzl/demo/score/45/GT_recon.wav": [
+    4.3,
+    4.5,
+    4.3,
+    4.5,
+    4.7,
+    4.6,
+    3.8
+  ],
+  "/media/yzl/demo/score/45/my_model.wav": [
+    4.5,
+    4.5,
+    3.9,
+    4.8,
+    4.8,
+    4.2,
+    4.8
+  ],
+  "/media/yzl/demo/score/46/tacotron2_waveglow.wav": [
+    3.8,
+    3.5,
+    2.3,
+    4.1,
+    3.7,
+    4.5,
+    2.3
+  ],
+  "/media/yzl/demo/score/46/GT.wav": [
+    4.5,
+    4.4,
+    4.0,
+    4.0,
+    4.7,
+    4.1,
+    4.8
+  ],
+  "/media/yzl/demo/score/46/tacotron_grffinlim.wav": [
+    3.2,
+    4.5,
+    0.8,
+    1.7,
+    2.0,
+    1.2,
+    1.0
+  ],
+  "/media/yzl/demo/score/46/GT_recon.wav": [
+    4.1,
+    2.5,
+    3.5,
+    4.8,
+    4.8,
+    4.1,
+    3.3
+  ],
+  "/media/yzl/demo/score/46/my_model.wav": [
+    4.2,
+    4.7,
+    4.3,
+    4.5,
+    4.7,
+    3.8,
+    3.7
+  ],
+  "/media/yzl/demo/score/47/tacotron2_waveglow.wav": [
+    3.7,
+    3.5,
+    3.0,
+    4.0,
+    4.9,
+    4.8,
+    2.6
+  ],
+  "/media/yzl/demo/score/47/GT.wav": [
+    4.5,
+    4.4,
+    3.4,
+    4.2,
+    4.6,
+    4.8,
+    4.9
+  ],
+  "/media/yzl/demo/score/47/tacotron_grffinlim.wav": [
+    2.8,
+    2.5,
+    1.2,
+    1.6,
+    1.5,
+    1.1,
+    0.8
+  ],
+  "/media/yzl/demo/score/47/GT_recon.wav": [
+    4.4,
+    4.5,
+    4.5,
+    4.1,
+    4.8,
+    4.7,
+    3.8
+  ],
+  "/media/yzl/demo/score/47/my_model.wav": [
+    4.6,
+    4.7,
+    3.8,
+    4.3,
+    4.8,
+    4.1,
+    3.3
+  ],
+  "/media/yzl/demo/score/48/tacotron2_waveglow.wav": [
+    4.1,
+    3.5,
+    2.8,
+    4.1,
+    4.6,
+    4.6,
+    2.5
+  ],
+  "/media/yzl/demo/score/48/GT.wav": [
+    4.3,
+    4.8,
+    4.3,
+    4.2,
+    4.8,
+    4.7,
+    4.6
+  ],
+  "/media/yzl/demo/score/48/tacotron_grffinlim.wav": [
+    2.9,
+    2.5,
+    0.6,
+    2.1,
+    1.9,
+    1.1,
+    0.8
+  ],
+  "/media/yzl/demo/score/48/GT_recon.wav": [
+    4.2,
+    4.4,
+    4.0,
+    4.5,
+    4.7,
+    4.2,
+    3.8
+  ],
+  "/media/yzl/demo/score/48/my_model.wav": [
+    3.9,
+    4.6,
+    3.5,
+    4.8,
+    4.8,
+    3.5,
+    3.3
+  ],
+  "/media/yzl/demo/score/49/tacotron2_waveglow.wav": [
+    4.3,
+    3.5,
+    2.8,
+    4.1,
+    3.9,
+    4.6,
+    2.0
+  ],
+  "/media/yzl/demo/score/49/GT.wav": [
+    4.2,
+    4.6,
+    3.5,
+    4.9,
+    4.7,
+    4.5,
+    3.8
+  ],
+  "/media/yzl/demo/score/49/tacotron_grffinlim.wav": [
+    3.3,
+    2.5,
+    0.9,
+    2.2,
+    1.9,
+    1.1,
+    0.7
+  ],
+  "/media/yzl/demo/score/49/GT_recon.wav": [
+    4.1,
+    4.3,
+    3.8,
+    4.6,
+    4.7,
+    4.2,
+    4.6
+  ],
+  "/media/yzl/demo/score/49/my_model.wav": [
+    4.5,
+    4.6,
+    4.5,
+    4.7,
+    4.8,
+    4.1,
+    3.4
+  ],
+  "/media/yzl/demo/score/50/tacotron2_waveglow.wav": [
+    4.3,
+    3.5,
+    3.0,
+    4.4,
+    3.9,
+    4.1,
+    2.2
+  ],
+  "/media/yzl/demo/score/50/GT.wav": [
+    4.3,
+    4.4,
+    4.5,
+    4.7,
+    4.7,
+    4.8,
+    3.7
+  ],
+  "/media/yzl/demo/score/50/tacotron_grffinlim.wav": [
+    3.4,
+    2.5,
+    1.3,
+    1.8,
+    1.5,
+    1.1,
+    0.9
+  ],
+  "/media/yzl/demo/score/50/GT_recon.wav": [
+    4.5,
+    4.7,
+    3.8,
+    4.8,
+    4.8,
+    4.7,
+    4.7
+  ],
+  "/media/yzl/demo/score/50/my_model.wav": [
+    4.4,
+    4.5,
+    3.4,
+    4.3,
+    4.7,
+    4.6,
+    3.4
+  ],
+  "/media/yzl/demo/score/51/tacotron2_waveglow.wav": [
+    3.8,
+    3.5,
+    3.0,
+    4.2,
+    4.3,
+    4.8,
+    2.3
+  ],
+  "/media/yzl/demo/score/51/GT.wav": [
+    3.9,
+    4.7,
+    3.8,
+    4.8,
+    4.9,
+    4.5,
+    4.8
+  ],
+  "/media/yzl/demo/score/51/tacotron_grffinlim.wav": [
+    3.2,
+    2.5,
+    0.8,
+    1.8,
+    1.7,
+    1.1,
+    0.7
+  ],
+  "/media/yzl/demo/score/51/GT_recon.wav": [
+    4.1,
+    4.2,
+    4.6,
+    4.4,
+    4.7,
+    4.3,
+    3.7
+  ],
+  "/media/yzl/demo/score/51/my_model.wav": [
+    4.3,
+    4.5,
+    3.2,
+    4.5,
+    4.8,
+    4.2,
+    3.3
+  ],
+  "/media/yzl/demo/score/52/tacotron2_waveglow.wav": [
+    3.6,
+    3.5,
+    2.8,
+    4.5,
+    3.8,
+    4.8,
+    2.4
+  ],
+  "/media/yzl/demo/score/52/GT.wav": [
+    4.1,
+    4.6,
+    3.8,
+    4.9,
+    4.8,
+    4.9,
+    4.8
+  ],
+  "/media/yzl/demo/score/52/tacotron_grffinlim.wav": [
+    3.2,
+    2.5,
+    0.7,
+    2.1,
+    1.8,
+    1.1,
+    0.7
+  ],
+  "/media/yzl/demo/score/52/GT_recon.wav": [
+    4.7,
+    4.5,
+    4.5,
+    4.6,
+    4.6,
+    4.8,
+    3.8
+  ],
+  "/media/yzl/demo/score/52/my_model.wav": [
+    4.6,
+    4.7,
+    3.5,
+    4.7,
+    4.7,
+    4.8,
+    3.4
+  ],
+  "/media/yzl/demo/score/53/tacotron2_waveglow.wav": [
+    4.2,
+    3.5,
+    2.8,
+    4.4,
+    4.1,
+    4.7,
+    2.0
+  ],
+  "/media/yzl/demo/score/53/GT.wav": [
+    4.5,
+    4.5,
+    4.0,
+    4.9,
+    4.7,
+    4.3,
+    3.3
+  ],
+  "/media/yzl/demo/score/53/tacotron_grffinlim.wav": [
+    3.3,
+    2.5,
+    0.6,
+    4.3,
+    1.7,
+    1.1,
+    0.8
+  ],
+  "/media/yzl/demo/score/53/GT_recon.wav": [
+    4.6,
+    4.4,
+    4.5,
+    4.5,
+    4.8,
+    4.1,
+    3.7
+  ],
+  "/media/yzl/demo/score/53/my_model.wav": [
+    4.7,
+    4.6,
+    3.4,
+    4.7,
+    4.9,
+    4.5,
+    4.7
+  ],
+  "/media/yzl/demo/score/54/tacotron2_waveglow.wav": [
+    3.5,
+    3.5,
+    2.3,
+    4.2,
+    3.9,
+    3.2,
+    2.3
+  ],
+  "/media/yzl/demo/score/54/GT.wav": [
+    4.5,
+    4.7,
+    4.0,
+    4.4,
+    4.8,
+    4.5,
+    3.7
+  ],
+  "/media/yzl/demo/score/54/tacotron_grffinlim.wav": [
+    3.2,
+    2.5,
+    1.0,
+    2.1,
+    1.6,
+    1.1,
+    1.0
+  ],
+  "/media/yzl/demo/score/54/GT_recon.wav": [
+    4.6,
+    4.4,
+    3.5,
+    4.8,
+    4.7,
+    4.6,
+    3.4
+  ],
+  "/media/yzl/demo/score/54/my_model.wav": [
+    4.1,
+    4.5,
+    4.3,
+    4.4,
+    4.8,
+    4.1,
+    4.7
+  ],
+  "/media/yzl/demo/score/55/tacotron2_waveglow.wav": [
+    3.5,
+    3.5,
+    2.8,
+    4.2,
+    3.9,
+    4.2,
+    2.6
+  ],
+  "/media/yzl/demo/score/55/GT.wav": [
+    4.7,
+    4.5,
+    4.5,
+    4.9,
+    4.7,
+    4.6,
+    4.5
+  ],
+  "/media/yzl/demo/score/55/tacotron_grffinlim.wav": [
+    3.4,
+    2.5,
+    0.7,
+    1.8,
+    1.7,
+    1.1,
+    0.8
+  ],
+  "/media/yzl/demo/score/55/GT_recon.wav": [
+    4.6,
+    4.4,
+    4.0,
+    4.5,
+    4.7,
+    4.1,
+    3.3
+  ],
+  "/media/yzl/demo/score/55/my_model.wav": [
+    4.5,
+    4.6,
+    3.8,
+    4.7,
+    4.8,
+    4.3,
+    3.6
+  ],
+  "/media/yzl/demo/score/56/tacotron2_waveglow.wav": [
+    3.6,
+    3.5,
+    3.0,
+    4.2,
+    3.9,
+    4.1,
+    2.5
+  ],
+  "/media/yzl/demo/score/56/GT.wav": [
+    4.3,
+    4.5,
+    4.0,
+    4.8,
+    4.8,
+    4.5,
+    4.7
+  ],
+  "/media/yzl/demo/score/56/tacotron_grffinlim.wav": [
+    3.1,
+    2.5,
+    1.3,
+    2.0,
+    1.8,
+    1.1,
+    1.0
+  ],
+  "/media/yzl/demo/score/56/GT_recon.wav": [
+    4.1,
+    4.3,
+    3.7,
+    4.6,
+    4.7,
+    4.2,
+    3.3
+  ],
+  "/media/yzl/demo/score/56/my_model.wav": [
+    4.1,
+    4.5,
+    4.5,
+    4.6,
+    4.8,
+    3.8,
+    3.7
+  ]
+}

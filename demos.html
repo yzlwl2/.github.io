@@ -26,7 +26,7 @@
         font-size: 1em; /* Adjust size as needed */
         font-weight: bold; /* Make the text bold */
         font-family: "system-ui"; /* Change the font to Microsoft YaHei */
-        height: 300px; /* Increase the height of the header */
+        height: 500px; /* Increase the height of the header */
         
     }
     th, td {
@@ -38,8 +38,20 @@
 </style>
 
 <div class="header">
-    China University of Mining and Technology<br>Intelligent Information Processing Laboratory
+    
+    <p style="text-align: center; font-size: 3em; margin-bottom: 2;"><br>Zero-TTS: Zero-Shot Speaker Adaptive Speech<br>Synthesis Based on Neural C-RVQ Codec</p>
+    <p style="text-align: center;font-size: 1.5em;line-height: 1;">China University of Mining and Technology</p>
+    <p style="text-align: center;font-size: 1.5em;line-height: 1;">Intelligent Information Processing Laboratory</p>
+    <img src="cumt_logo_white.svg" alt="矿大校徽" width="150" height="150" style="position: absolute; top: 20px; left: 20px; z-index: 1;">
+    
 </div>
+
+<p style="text-align: center;font-size: 2em;line-height: 1;;">Abstract</p>
+<p style="text-align: left; font-size: 1em;margin-left: 15%;margin-right: 15%;border-bottom: 5px dashed #05198dc4;padding: 20px;">Speaker adaptive speech synthesis offers a wide range of application in human-computer interaction scenarios, AI-generated creations, and news broadcast. Existing speaker adaptation methods predominantly focus on supervised fine-tuning. However, when updating network parameters is not allowed or the data for fine-tuning is severely insufficient, such methods become ineffective. Therefore, it is crucial to develop a zero-shot speaker adaptive model capable of generating realistic speech without fine-tuning. In this paper, we propose a zero-shot speech synthesis system, Zero-TTS, leveraging a neural speech codec, feature disentanglement module, and a feature predictor to synthesize speech of unseen speakers. Specifically, we design a speech codec network which compresses speech into continuous residual vector-quantized (C-RVQ) vectors as intermediate representations. Despite their significant compression, the C-RVQ vectors still possess the potential to be reconstructed into high-fidelity speech. To achieve text-to-speech synthesis, C-RVQ vectors are predicted with a flow-based network from the text input. Furthermore, a feature disentanglement module is utilized to extract speaker-related information through the comparison between semantic information from text and that from speech. Due to the independence of speaker identity information during training step, the disentanglement module demonstrates effectiveness across diverse data distributions. Finally, the predicted C-RVQ vectors from text input, along with the speaker-related features from the prompt speech, are combined in the codec decoder to reconstruct the speech for the target speaker. We train our model on the widely used LibriTTS dataset and validate the effectiveness on both in-domain test set and out-of-domain data. Experimental results indicate that Zero-TTS exhibits the SOTA preformance within networks of similar parameter magnitudes. The SMOS to measure speaker similarity reaches 3.55 : 2.31, higher than the baseline YourTTS.</p>
+
+<img src="full-networks.png" alt="Your Image" style="display: block; margin-left: auto; margin-right: auto; width: 50%;margin-top: 5%;">
+<p style="text-align: center;font-size: 1em;line-height: 1;;">Fig: The architecture of the proposed Zero-TTS</p>
+
 
 <table style="width:90%">
     
